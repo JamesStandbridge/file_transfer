@@ -1,0 +1,12 @@
+{
+    "name": "boeki/file_transfer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "jamesstandbridge",
+            "email": "james.standbridge.git@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
